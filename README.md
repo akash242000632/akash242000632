@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akash242000632
 - 👀 I’m interested in Software development..
-- 🌱 I’m currently learning Game development.
-- 💞️ I’m looking to collaborate on Various big tech companies..
+- 🌱 I’m currently looking for SDE Roles...
+- 💞️ I’m looking to work with Big Tech Companies/MNCs....
 - 📫 How to reach email me akashchaudhary632@gmail.com...
 
 <!---
